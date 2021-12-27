@@ -147,7 +147,7 @@ p {
 }
 main {
   min-height: 100vh;
-  display: grid;
+  display:grid ;
   place-items: center;
 }
 
